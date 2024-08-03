@@ -1,6 +1,8 @@
-# TITLE
+<div align="center">
+  <img src="https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?resize=1200%2C630">
+</div>
 
-## Overview and Origin
+# Overview and Origin
 
 * Name of company
 
