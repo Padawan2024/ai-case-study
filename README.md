@@ -2,7 +2,7 @@
   <img src="https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?resize=1200%2C630" width="1000">
 </div>
 
-<span style="font-size:16;">On October 2021, GitHub released an AI pair programmer called Copilot. Github wanted to create an AI coding assistant that would help write code faster and with less effort to allow developers to focus more of their energy on problem solving and collaboration. By drawing context from comments and code, Copilot can suggest single lines of code for autocompletion or entire functions for coding languages such as Python, JavaScript, Typescript, Ruby, Go, C# and C++ ( ). Copilot is currently available as an extension for Neovim, VS Code, Visual Studio and the family of Jet IDEs. Interested in learning more about Github Copilot? Watch the video below:</span>
+<span style="font-size:30;">On October 2021, GitHub released an AI pair programmer called Copilot. Github wanted to create an AI coding assistant that would help write code faster and with less effort to allow developers to focus more of their energy on problem solving and collaboration. By drawing context from comments and code, Copilot can suggest single lines of code for autocompletion or entire functions for coding languages such as Python, JavaScript, Typescript, Ruby, Go, C# and C++ ( ). Copilot is currently available as an extension for Neovim, VS Code, Visual Studio and the family of Jet IDEs. Interested in learning more about Github Copilot? Watch the video below:</span>
 
 [![What is GitHub Copilot](https://img.youtube.com/vi/IqXNhakuwVc/0.jpg)](https://www.youtube.com/watch?v=IqXNhakuwVc)
 
