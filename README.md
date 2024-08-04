@@ -2,7 +2,7 @@
   <img src="https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?resize=1200%2C630" width="1000">
 </div>
 
-On October 2021, GitHub released an AI pair programmer called Copilot. Github wanted to create an AI coding assistant that would help write code faster and with less effort to allow developers to focus more of their energy on problem solving and collaboration. By drawing context from comments and code, Copilot can suggest single lines of code for autocompletion or entire functions for coding languages such as Python, JavaScript, Typescript, Ruby, Go, C# and C++ ( ). Copilot is currently available as an extension for Neovim, VS Code, Visual Studio and the family of Jet IDEs. Interested in learning more about Github Copilot? Watch the video below:
+On October 2021, GitHub released an AI pair programmer called Copilot. Github wanted to create an AI coding assistant that would help write code faster and with less effort to allow developers to focus more of their energy on problem solving and collaboration. By drawing context from comments and code, Copilot can suggest single lines of code for autocompletion or entire functions for coding languages such as Python, JavaScript, Typescript, Ruby, Go, C# and C++ (Github Docs, n.d.). Copilot is currently available as an extension for Neovim, VS Code, Visual Studio and the family of Jet IDEs. Interested in learning more about Github Copilot? Watch the video below:
 
 <!DOCTYPE html>
 <html>
@@ -17,13 +17,16 @@ On October 2021, GitHub released an AI pair programmer called Copilot. Github wa
 </body>
 </html>
 
-According to Thomas Dohmke, it is part of GitHub’s mission to build technology that makes developers happy (2024). In a GitHub article, Eirini Kalliamvakou argues that developers’ satisfaction and productivity is linked to the ability to make meaningful progress and feeling good at the end of the day. Kalliamvakou cites other academic research that shows that these outcomes are important for developers and that satisfied developers perform better [ ].
+According to Thomas Dohmke, it is part of GitHub’s mission to build technology that makes developers happy (2024). In a GitHub article, Eirini Kalliamvakou argues that developers’ satisfaction and productivity is linked to the ability to make meaningful progress and feeling good at the end of the day. Kalliamvakou cites other academic research that shows that these outcomes are important for developers and that satisfied developers perform better.
 To measure the effects of GitHub copilot, GitHub surveyed 2,000 developers about their experience using Copilot. They designed their research approach based on the three points mentioned below (Kalliamvakou, 2024): 
-<p><center><b>Look at productivity holistically.</b></center></p>
 
-<p><center><b>Include developers’ first-hand perspective.</b></center></p>
 
-<p><center><b>Assess GitHub Copilot’s effects in everyday development scenarios.</b></center></p>
+- <b>Look at productivity holistically.</b>
+
+- <b>Include developers’ first-hand perspective.</b>
+
+- <b>Assess GitHub Copilot’s effects in everyday development scenarios.</b>
+
 
 The results from the survey are shown below:
 
