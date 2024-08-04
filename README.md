@@ -58,5 +58,7 @@ GitHub Youtube (2022). What is Copilot? Retrieved August 4, 2024, from https://w
 
 ### **Sources for HTML code:**
 https://www.youtube.com/watch?v=hVBKHr1fjLk
+
 https://www.youtube.com/watch?v=D6aHo1VvCc8
+
 https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github
