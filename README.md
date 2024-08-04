@@ -1,51 +1,42 @@
 <div align="center">
-  <img src="https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?resize=1200%2C630">
+  <img src="https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?resize=1200%2C630" width="1000">
 </div>
 
-# Overview and Origin
+<span style="font-size:14;">On October 2021, GitHub released an AI pair programmer called Copilot. Github wanted to create an AI coding assistant that would help write code faster and with less effort to allow developers to focus more of their energy on problem solving and collaboration. By drawing context from comments and code, Copilot can suggest single lines of code for autocompletion or entire functions for coding languages such as Python, JavaScript, Typescript, Ruby, Go, C# and C++ ( ). Copilot is currently available as an extension for Neovim, VS Code, Visual Studio and the family of Jet IDEs. Interested in learning more about Github Copilot? Watch the video below:</span>
 
-* Name of company
+[![What is GitHub Copilot](https://img.youtube.com/vi/IqXNhakuwVc/0.jpg)](https://www.youtube.com/watch?v=IqXNhakuwVc)
 
-* When was the company incorporated?
+According to Thomas Dohmke, it is part of GitHub’s mission to build technology that makes developers happy (2024). In a GitHub article, Eirini Kalliamvakou argues that developers’ satisfaction and productivity is linked to the ability to make meaningful progress and feeling good at the end of the day. Kalliamvakou cites other academic research that shows that these outcomes are important for developers and that satisfied developers perform better [ ].
+To measure the effects of GitHub copilot, GitHub surveyed 2,000 developers about their experience using Copilot. They designed their research approach based on the three points mentioned below (Kalliamvakou, 2024): 
+<p style="text-align: center"><b>Look at productivity holistically.</b></p>
 
-* Who are the founders of the company?
+<p style="text-align: center"><b>Include developers’ first-hand perspective.</b></p>
 
-* How did the idea for the company (or project) come about?
+<p style="text-align: center"><b>Assess GitHub Copilot’s effects in everyday development scenarios.</b></p>
 
-* How is the company funded? How much funding have they received?
+The results from the survey are shown below:
 
-## Business Activities
+<div align="center">
+  <img src="https://github.blog/wp-content/uploads/2022/09/copilot1.png?resize=1024%2C1024" width="575">
+</div>
 
-* What specific problem is the company or project trying to solve?
+From the survey results, Kalliamvakou reported that between 60-75% of users "felt more fulfilled with their job, felt less frustrated when coding, and were able to focus on more satisfying work". Additionally, 73% of developers reported that copilot helped them stay in the flow and 83% reported that helped preserve mental effort. 
+In the survey, GitHub observed that developers reported that Copilot helped them to complete tasks faster. To measure the effect in practice, they conducted a controlled experiment with 95 developers, where 45 used copilot and 50 did not. The results of the experiment are presented below:
+ 
+<div align="center">
+  <img src="https://github.blog/wp-content/uploads/2022/09/copitlot2.png?resize=1024%2C870" width="575">
+</div>
+                                                                                                      
+According to Kalliamvakou, the results demonstrated the group that used Copilot had a higher rate of completing the task. She also mentions that developers using Copilot completed the task approximately 55% faster than developers not using it.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+## Disclaimer: All information and data (images, citations, videos, etc) in this README.md file was used for academic purposes only. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### **Cited Sources:**
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Kalliamvakou, Eirini (2024). Research: quantifying GitHub Copilot’s impact on developer productivity and happiness. Retrieved August 4, 2024, from https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
 
-## Landscape
+Dohmke, Thomas (2024). GitHub Copilot is generally available to all developers. Retrieved August 4, 2024, from https://github.blog/news-insights/product-news/github-copilot-is-generally-available-to-all-developers/
 
-* What field is the company in?
+GitHub (n.d.). Getting code suggestions in your IDE with GitHub Copilot. Retrieved August 4, 2024, from https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+GitHub Youtube (2022). What is Copilot? Retrieved August 4, 2024, from https://www.youtube.com/watch?v=IqXNhakuwVc
