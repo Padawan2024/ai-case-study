@@ -22,9 +22,7 @@ To measure the effects of GitHub copilot, GitHub surveyed 2,000 developers about
 
 
 - <b>Look at productivity holistically.</b>
-
 - <b>Include developers’ first-hand perspective.</b>
-
 - <b>Assess GitHub Copilot’s effects in everyday development scenarios.</b>
 
 
@@ -43,6 +41,9 @@ In the survey, GitHub observed that developers reported that Copilot helped them
                                                                                                       
 According to Kalliamvakou, the results demonstrated the group that used Copilot had a higher rate of completing the task. She also mentions that developers using Copilot completed the task approximately 55% faster than developers not using it.
 
+> *(With Copilot) I have to think less, and when I have to think it’s the fun stuff. It sets off a little spark that makes coding more fun and more efficient.*
+>  -Senior Software Engineer
+
 ## Disclaimer: All information and data (images, citations, videos, etc) in this README.md file was used for academic purposes only. 
 
 ### **Cited Sources:**
@@ -54,3 +55,8 @@ Dohmke, Thomas (2024). GitHub Copilot is generally available to all developers. 
 GitHub (n.d.). Getting code suggestions in your IDE with GitHub Copilot. Retrieved August 4, 2024, from https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot
 
 GitHub Youtube (2022). What is Copilot? Retrieved August 4, 2024, from https://www.youtube.com/watch?v=IqXNhakuwVc
+
+### **Sources for HTML code:**
+https://www.youtube.com/watch?v=hVBKHr1fjLk
+https://www.youtube.com/watch?v=D6aHo1VvCc8
+https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github
